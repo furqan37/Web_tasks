@@ -1,0 +1,56 @@
+
+#header{
+    background-color: #3b5998;
+      height: 80px;
+  width: 100%;
+  color: white;
+}
+#login{
+    
+    background-color:  #7485A9;
+    color:white;
+    border-block-end-color: #3b5998;
+      border-color: #3b5998;
+      
+}
+#create_account{
+    background-color: green;
+    color:white;
+    height: 30px;
+    width: 200px;
+      font-weight: bold;
+  border-radius: 5px 5px 5px 5px;
+}
+@font-face{
+    font-family: lato;
+    src: url(lato-regular.ttf);
+}
+body{
+    font-family: lato ,san-serif;
+}
+@font-face{
+    font-family: lato-light;
+    src:url(Lato-LightItalic.ttf);
+}
+.light{
+    font-family: lato-light,sans-serif;
+   
+}
+#why{
+     color: rgb(156, 156, 237);
+  font-size: 11px;
+}
+#connect{
+    font-size: 20px;
+    color:#3b5998;
+    font-weight: bold;
+    text-align: center;
+}
+#by{
+    color:grey;
+    font-size:11px;
+}
+#birth{
+    font-size:20px;
+    
+}
