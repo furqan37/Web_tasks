@@ -1,0 +1,164 @@
+.logo{
+    margin-left:30px;
+}
+.head{
+    display:inline;
+margin: 0px 200px;
+}
+.left-col{
+     float: left;
+     height: 1500px;
+     width:220px;
+//     border: 3px solid black;
+    margin-top: 40px;
+
+}
+.art-nav{
+    height: 490px;
+    width: 200px;
+    border: 3px solid rgb(82, 160, 61);  
+    border-radius: 15px 15px 15px 15px;
+     overflow: hidden;
+    
+}
+.pannel-top{
+    text-align: center;
+    background-color: rgb(252, 252, 107);
+    color: rgb(82, 160, 61);
+    font-size: 20px;
+    padding: 20px;
+    }
+.art-menu{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+
+}
+li{
+    padding: 6px 0px 7px 5px;
+    display: block;
+    border: 1px solid black  ;
+    
+}
+li:hover{
+    background-color: goldenrod;
+    color:purple;
+    
+}
+.arrow{
+    position: absolute;
+ left: 190px;
+}
+.vid-cat{
+    border: 1px solid white;
+    
+    text-align: center;
+    background-color: rgb(252, 252, 107);
+    color: rgb(82, 160, 61);
+    padding:10px;
+    font-size:20px;
+    margin-top:20px;
+    width:150px;
+   margin-left:15px;
+   border-radius: 10px 10px 10px 10px;
+}
+.vid-cat:hover{
+    background-color: orange;
+}
+.left-search{
+    border: 3px solid rgb(82, 160, 61);  
+    width: 200px;
+margin-left:5px;   
+border-radius: 15px 15px 15px 15px;
+     overflow: hidden;
+    
+
+}
+.form{
+    padding: 5px;
+margin-bottom:30px;
+}
+.ref{
+margin-left: 30px;
+}
+.custom{
+    font-size: 30px;
+    margin: 10px;
+    margin-top:30px;
+}
+.right-col{
+    height: 1550px;
+    width: 300px;
+    background-color: rgba(248, 237, 24, 1);
+    border-radius: 20px;
+    
+position: absolute;
+left: 778px;
+margin-top:30px;
+}
+.new{
+    height: 1600px;
+    width:1080px;
+    border-left: 15px solid orange;
+    border-top: 15px solid white;
+    border-radius: 20px;
+    
+    position :absolute;
+    left:230px;
+}
+.lang{
+    padding: 5px;
+    background-color: rgb(255, 224, 100);
+   text-align: center;
+}
+.live-chat{
+    border: 3px solid white;
+    text-align: center;
+    margin:9px;
+    border-radius: 10px 10px 10px 10px;
+    overflow: hidden;
+}
+
+.pannel-right{
+    border: 3px solid white;
+    margin:9px;
+    border-radius: 10px 10px 10px 10px;
+    overflow: hidden;
+}
+.list{
+    padding: 10px;
+}
+.center{
+  height: 1550px;
+    width: 750px;
+    margin-left:20px;
+}
+.center-head{
+
+    margin-top:20px;
+    height: 35px;
+    text-align: center;
+    background-color: rgb(255, 245, 48);
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+}
+.new-art{
+    //border: 1px solid black;
+    
+}
+.publish{
+    color: grey;
+}
+.pic{
+    float: right;
+}
+.artcle{
+    font-size: 20px;
+}
+
+.q-pic{
+    position: absolute;
+    top:80px;
+    left: 1000px;
+}
