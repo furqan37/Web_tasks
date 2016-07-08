@@ -1,0 +1,83 @@
+.heading{
+    font-family: 'lobster', cursive;
+    font-size: 50px;
+}
+.navigation{
+    margin-top: 15px;
+      background-color: #3C96E2;
+  border-color: #008BFF;
+    border-radius: 4px;
+      position: relative;
+  min-height: 50px;
+  margin-bottom: 20px;
+  border: 1px solid transparent;
+    padding-left: 0px;
+ 
+  list-style: none;
+}
+.navhead{
+   // color:white;
+ //   background: white;
+}
+.navlink{
+    color:white;
+    font-size: 15px;
+}
+#login{
+    margin-right: 10px;
+}
+.cover{
+    border: 10px groove #008BFF;
+    border-radius: 10px;
+    margin: 0 auto;
+    opacity: 0.8;
+}
+.image { 
+   position: relative; 
+   width: 100%; /* for IE 6 */
+}
+
+h2 { 
+   position: absolute; 
+   top: 200px; 
+   left: 0; 
+   width: 100%; 
+}
+.topstu{
+    background-color: #008BFF;
+    color: snow;
+    font-size: 30px;
+    text-align: center;
+}
+.word{
+   font-size: 40px;
+   margin-top: 0px; 
+}
+.inlined{
+    display: inline;
+}
+.aligned{
+    vertical-align: text-top;
+}
+.toprankstu{
+    margin-left:20px;
+    background-color: rgb(244, 248, 250);
+    
+}
+.table-curved {
+   border-collapse:separate;
+    border: solid #ccc 2px;
+   border-radius: 25px;
+   overflow: hidden;
+}
+.word-news{
+    font-size: 20px;
+padding:10px;
+    background-color: rgb(244, 248, 250);
+
+}
+.word-news:hover{
+    background-color:white;
+    font-weight: bold;
+}
+
