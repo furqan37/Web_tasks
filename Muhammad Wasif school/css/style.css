@@ -15,9 +15,9 @@
  
   list-style: none;
 }
-.navhead{
-   // color:white;
- //   background: white;
+.act{
+    background-color: black;
+    color: white;
 }
 .navlink{
     color:white;
@@ -71,7 +71,7 @@ h2 {
    overflow: hidden;
 }
 .word-news{
-    font-size: 20px;
+    font-size: 18px;
 padding:10px;
     background-color: rgb(244, 248, 250);
 
@@ -80,4 +80,93 @@ padding:10px;
     background-color:white;
     font-weight: bold;
 }
-
+.admission{
+    font-family: serif;
+    font-weight: bold;
+    color: #3C96E2;
+}
+.admission-details{
+    font-size: 20px;
+}
+.sub-btn{
+    margin-left: 30px;
+}
+.gd{
+    font-size:20px;
+    font-style: oblique;
+    text-decoration: underline;
+}
+.foot{
+    padding:20px;
+    font-size: 20px;
+    font-style: italic;
+    margin-left:75%;
+}
+.contact{
+    font-size:18px;
+    color:grey;
+}
+.pic-sp{
+    border-radius: 50%;
+    border: 2px groove #3C96E2;
+    background-color: black;
+}
+.top:hover{
+    background-color: #C1E1FC;
+    color:snow;
+    font-size: 20px;
+}
+.login{
+    height: 500px;
+    width:300px;
+border-radius: 20px;
+    border: 1px solid #ccc;
+    overflow: hidden;
+}
+.login-head{
+    font-size: 30px;
+    padding:20px;
+    background-color: rgb(60, 150, 226);
+    color:white;
+    font-weight: bold;
+    
+}
+.scroll{
+    
+    padding:20px;
+    color:white;
+    background-color: rgb(60, 150, 226);
+  border-color: #008BFF;
+border-radius:4px;    
+}
+.white-bg{
+    background-color: white;
+    color:black;
+}
+.in-head{
+    border-bottom: 2px ridge #008BFF;
+    border-top: 2px ridge #008BFF;
+    padding: 20px;
+    font-size:20px;
+}
+.pic-curved{
+    border-radius: 50%;
+    padding:10px;
+}
+.about{
+    border: 1px solid #008BFF;
+    height: auto;
+    width: 400px;
+    padding:40px;
+    font-style:italic;
+    border-radius: 20px;
+    
+}
+.contact1{
+    border: 1px solid #008BFF;
+    height: 400px;
+    width: 400px;
+    padding:40px;
+    font-style:italic;
+    border-radius: 20px;
+}
